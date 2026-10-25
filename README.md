@@ -1,6 +1,15 @@
 # Flippy-Bit
 Based on [Q42](https://www.q42.nl/en)'s ['Flippy Bit And The Attack Of The Hexadecimals From Base 16'](https://flippybitandtheattackofthehexadecimalsfrombase16.com/), made with Typescript, HTML, and CSS!
 
+## Usage
+
+Setup (requires node.js):
+
+```bash
+> npm install
+> npm run dev
+```
+
 ## Controls
 
 - Each digit in the array can be controlled with your keyboard, using
